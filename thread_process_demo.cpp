@@ -1,11 +1,8 @@
-/**
- * Threads that waste CPU cycles
- */
 #include <thread>
 #include <chrono>
 #include <unistd.h>
 #include <cstdio>
-#include <iostream>
+#include <iostream> 
 
 // a simple function that wastes CPU cycles "forever"
 void cpu_waster() {
