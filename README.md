@@ -1,3 +1,15 @@
+## Table of contents
+
+- [Classwork threads](#classwork-threads)
+  - [1. Check how many processes and threads your application use](#1-check-how-many-processes-and-threads-your-application-use)
+  - [2. Check how many processes and threads your OS use](#2-check-how-many-processes-and-threads-your-os-use)
+  - [3. Check how many processes and threads your MS Office use](#3-check-how-many-processes-and-threads-your-ms-office-use)
+  - [4. Check how many processes and threads your favorite Game use](#4-check-how-many-processes-and-threads-your-favorite-game-use)
+  - [5. Change the cpu\_waster function  create an application with 6 threads](#5-change-the-cpu_waster-function--create-an-application-with-6-threads)
+  - [6. Change the cpu\_waster function for a calculator that adds 2 numbers entered per screen, what happens?](#6-change-the-cpu_waster-function-for-a-calculator-that-adds-2-numbers-entered-per-screen-what-happens)
+  - [7. Create a program that says hello infinitely per screen, then create 2 threads, assign the greeting hello to one thread and goodbye to the other, what happens? Use std::](#7-create-a-program-that-says-hello-infinitely-per-screen-then-create-2-threads-assign-the-greeting-hello-to-one-thread-and-goodbye-to-the-other-what-happens-use-std)
+
+
 # Classwork threads
 
 `Author:` Mondalgo Tapia, Juan Carlos
